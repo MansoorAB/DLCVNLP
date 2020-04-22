@@ -1,2 +1,2 @@
 # DLCVNLP
-Work related to iNeuron NLP Course
+Work related to iNeuron NLP, CV and DL Course
